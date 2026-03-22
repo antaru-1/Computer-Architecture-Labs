@@ -8,7 +8,7 @@ This repository contains a collection of hardware-level designs and low-level pr
 
 ### 1. 8-Bit Arithmetic Logic Unit (ALU)
 A fully functional 8-bit ALU designed using **Logisim**.
-![8-bit ALU Design](images/alu_8bit_design.jpg)
+![8-bit ALU Design](alu_8bit_design.jpg)
 
 * **Operations:** Addition, Subtraction, AND, OR, XOR.
 * **Status Flags:** **Z** (Zero), **N** (Negative), **C** (Carry), **V** (Overflow).
@@ -27,7 +27,7 @@ Design and simulation of fundamental memory and timing components:
 
 ### 3. MIPS Assembly Programming (MARS Simulator)
 Low-level software development to understand the hardware-software interface:
-![MIPS Fibonacci](images/mips_fibonacci_code.png)
+![MIPS Fibonacci](mips_fibonacci_code.png)
 
 * **Algorithms:** Fibonacci sequence, Array processing, and Mathematical Summations.
 * **Skills:** Memory allocation (`.data`), Instruction execution (`.text`), and System Calls.
