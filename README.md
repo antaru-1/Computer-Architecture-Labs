@@ -18,7 +18,7 @@ A fully functional 8-bit ALU designed using **Logisim**.
 
 ### 2. Sequential Logic & Registers
 Design and simulation of fundamental memory and timing components:
-![Binary Counter](images/binary_counter_logic.jpg)
+![Binary Counter](binary_counter_logic.jpg)
 
 * **4-Bit Counters:** Up/Down counters using D Flip-Flops.
 * **Shift Registers:** Serial-to-Parallel transmission and Binary Multiplication by 2 (Left Shift).
