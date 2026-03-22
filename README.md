@@ -31,7 +31,9 @@ Low-level software development to understand the hardware-software interface:
 
 * **Algorithms:** Fibonacci sequence, Array processing, and Mathematical Summations.
 * **Skills:** Memory allocation (`.data`), Instruction execution (`.text`), and System Calls.
-
+**Core Focus:** Understanding how instructions are executed at the register level.
+* **Key Tasks:** Implemented algorithms like the Fibonacci sequence and managed data flow between CPU registers and memory.
+* **Proficiency:** Gained experience in assembly syntax, debugging with MARS, and manual memory management.
 ---
 
 ## 🛠️ Tools Used
